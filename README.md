@@ -1,2 +1,2 @@
 # school-bus-problem
-It is a simple Python project that based on the genetic algorithm to get the shortest path between 10 random locations stored in a <a href="https://github.com/hatimzh/school-bus-problem/blob/main/locations.csv">csv file</a> by <a href="https://github.com/hatimzh/school-bus-problem/blob/main/locations.ipynb" > locations.py</a> 
+It is a simple Python project based on the <a href="https://github.com/hatimzh/school-bus-problem/blob/main/genetic.ipynb">genetic algorithm</a> to get the shortest path between 10 random locations stored in a <a href="https://github.com/hatimzh/school-bus-problem/blob/main/locations.csv">csv file</a> by <a href="https://github.com/hatimzh/school-bus-problem/blob/main/locations.ipynb" > locations.py</a> 
